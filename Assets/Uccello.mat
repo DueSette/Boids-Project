@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Uccello
+  m_Shader: {fileID: -6465566751694194690, guid: 0fdf98e63b3629e448f1e72de219ea30,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_671F3A11: 0.06
+    - Vector1_812E1424: 340
+    - Vector1_9559D437: 0.64
+    - Vector1_A5B6BCB0: 10
+    m_Colors:
+    - Color_276B5B8C: {r: 1, g: 0.043137256, b: 0, a: 0}
+    - Color_C7B8DCF: {r: 1, g: 0.1273585, b: 0.26022092, a: 0}
+    - Color_DFAD9B33: {r: 0.9652157, g: 1, b: 0, a: 0}
+    - Color_F35DB577: {r: 0.7732222, g: 0.7735849, b: 0.41233534, a: 0}
