@@ -16,7 +16,7 @@ MonoBehaviour:
   alignmentWeight: 1
   separationWeight: 1
   viewRadius: 80
-  separationRadius: 10
+  separationRadius: 15
   obstacleMask:
     serializedVersion: 2
     m_Bits: 512
